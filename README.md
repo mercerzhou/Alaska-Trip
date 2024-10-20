@@ -25,7 +25,10 @@ Freezing trip for the freezing season
 - **Snowmobiling**: Adventure through frozen landscapes.
 - **Wildlife Viewing**: Moose, reindeer, and perhaps polar bears!
 
-## 📅 Itinerary
+## :Calendar To-Confirm Itinerary
+
+
+## 📅 Confirmed Itinerary
 ### Day 1-3: Anchorage
 - Explore local markets and museums.
 - Visit the Alaska Wildlife Conservation Center.
