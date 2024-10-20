@@ -17,7 +17,7 @@ Freezing trip for the freezing season
 
 ## 🏔️ Destinations
 - **Anchorage**: Urban exploration, dining, and local culture.
-  - **FOOD**: Moose's Tooth Pub & Pizzeria
+  - **FOOD**: [Moose's Tooth Pub & Pizzeria](https://maps.app.goo.gl/SE35EFeBbxtN5zua6)
   - **Hotel**: (Add your hotel name here)
   - **Tourist**: (Add your tourist spots here)
 - **Fairbanks**: Northern Lights viewing, winter sports, and hot springs.
