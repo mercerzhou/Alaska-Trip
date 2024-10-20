@@ -26,7 +26,7 @@ Freezing trip for the freezing season
 - **Wildlife Viewing**: Moose, reindeer, and perhaps polar bears!
 
 ## 🗓️ To-Confirm Itinerary
-
+- [ ] Mercer's work-off request change for Dec 19 - Dec 27
 
 ## 📅 Confirmed Itinerary
 ### Day 1-3: Anchorage
