@@ -26,8 +26,20 @@ Freezing trip for the freezing season
     - [🏂Alyeska Resort](https://maps.app.goo.gl/1Z4jmMfEdKWko35G9)
   - **上蹿下跳**: 
     - [Matanuska Glacier](https://maps.app.goo.gl/9dBZ2ACnoAmFep7o9)
+    - [🖼Anchorage Museum](https://maps.app.goo.gl/Cdw2Nqmpx3wuStzS7)
+    - [🛵Girdwood]
+  - **散财街**：
+    - [💰Anchorage 5th Avenue Mall](https://maps.app.goo.gl/uUgBM5AK5ZvF6W3XA)
 - **Fairbanks**: Northern Lights viewing, winter sports, and hot springs.
-- **Denali National Park**: Snowshoeing, wildlife viewing, and serene landscapes.
+  - **胡吃海塞**:
+    - 
+  - **呼呼大睡**: 
+    - [Chena Hot Springs Resort](https://maps.app.goo.gl/PoSYpBVryE9gBonA9)
+  - **上蹿下跳**: 
+    - [Running Reindeer Ranch](https://maps.app.goo.gl/Cone6P8ePzpRKRpY9)
+    - [Firewalkers Alaskan Malamute](https://maps.app.goo.gl/Wzx3oiquWBcjquGg8)
+  - **散财街**：
+    - 
 
 ## 🌟 Highlights
 - **Northern Lights**: Chasing the Aurora Borealis in Fairbanks.
