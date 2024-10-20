@@ -3,6 +3,13 @@
 ## Overview
 Join me on an epic winter adventure in **Alaska**! This README documents all the fun, the planning, and essential details to make the trip a memorable one.
 
+## TODO
+- [ ] Book Flights ✈️
+- [ ] Reserve Accommodations 🏨
+- [ ] Pack Winter Gear 🧥
+- [x] Set Up Doc 📝
+
+
 ## 🗓️ Travel Dates
 - **Start Date**: December 15, 2024
 - **End Date**: December 30, 2024
