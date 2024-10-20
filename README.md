@@ -1,7 +1,7 @@
 # ❄️ Winter Trip to Alaska 2024
 ![WOW!](images/head.jpg)
 ## Overview
-Join me on an epic winter adventure in **Alaska**! This README documents all the fun, the planning, and essential details to make the trip a memorable one.
+Freezing trip for the freezing season
 
 ## TODO
 - [ ] Book Flights ✈️
