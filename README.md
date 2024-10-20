@@ -22,8 +22,7 @@ Freezing trip for the freezing season
     - [Wonjo Korean Cuisine](https://maps.app.goo.gl/kPqwVrKT7debNAhd7)
     - [🍻Glacier Brewhouse](https://maps.app.goo.gl/sHzxEaQm5wSZFeSQ7)
     - [🥩Simon & Seafort's Saloon & Grill](https://maps.app.goo.gl/Th8ru8JDGTCThRnL6)
-    - 
-  - **Hotel**: (Add your hotel name here)
+  - **呼呼大睡**: (Add your hotel name here)
     - [🏔Alyeska Resort](https://maps.app.goo.gl/1Z4jmMfEdKWko35G9)
   - **Tourist**: (Add your tourist spots here)
 - **Fairbanks**: Northern Lights viewing, winter sports, and hot springs.
