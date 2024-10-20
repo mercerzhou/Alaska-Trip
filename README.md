@@ -25,7 +25,7 @@ Freezing trip for the freezing season
 - **Snowmobiling**: Adventure through frozen landscapes.
 - **Wildlife Viewing**: Moose, reindeer, and perhaps polar bears!
 
-## :Calendar To-Confirm Itinerary
+## 🗓️ To-Confirm Itinerary
 
 
 ## 📅 Confirmed Itinerary
