@@ -24,7 +24,8 @@ Freezing trip for the freezing season
     - [🥩Simon & Seafort's Saloon & Grill](https://maps.app.goo.gl/Th8ru8JDGTCThRnL6)
   - **呼呼大睡**: (Add your hotel name here)
     - [🏔Alyeska Resort](https://maps.app.goo.gl/1Z4jmMfEdKWko35G9)
-  - **Tourist**: (Add your tourist spots here)
+  - **上蹿下跳**: (Add your tourist spots here)
+    - [Matanuska Glacier](https://maps.app.goo.gl/9dBZ2ACnoAmFep7o9)
 - **Fairbanks**: Northern Lights viewing, winter sports, and hot springs.
 - **Denali National Park**: Snowshoeing, wildlife viewing, and serene landscapes.
 
