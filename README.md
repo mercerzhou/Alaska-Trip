@@ -3,16 +3,12 @@
 ## Overview
 Freezing trip for the freezing season
 
----
-
 ## TODO
 - [ ] Book Flights ✈️
 - [ ] Reserve Accommodations 🏨
 - [ ] Pack Winter Gear 🧥
 - [x] Set Up Doc 📝
 - [ ] Mercer's work-off request change for Dec 19 - Dec 27
-
----
 
 ## 🗓️ Travel Dates
 - Plan:
