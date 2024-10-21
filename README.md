@@ -12,8 +12,9 @@ Freezing trip for the freezing season
 
 
 ## 🗓️ Travel Dates
-- **Start Date**: December 15, 2024
-- **End Date**: December 30, 2024
+- Plan:
+  - **Start Date**: Dec 19, 2024
+  - **End Date**: Dec 24 or 25, 2024
 
 ## 🏔️ Destinations
 - **Anchorage**: Urban exploration, dining, and local culture.
