@@ -16,6 +16,14 @@ Freezing trip for the freezing season
   - **Start Date**: Dec 19, 2024
   - **End Date**: Dec 24 or 25, 2024
 
+## 🗓️ To-Confirm Itinerary
+- Dec 19:
+  - <Time> Flight to Anchorage
+- Dec 20:
+  - <Time> Matanuska Glacier
+
+## 📅 Confirmed Itinerary
+
 ## 🏔️ Destinations
 - **Anchorage**: Urban exploration, dining, and local culture.
   - **胡吃海塞**:
@@ -47,11 +55,6 @@ Freezing trip for the freezing season
 - **Dog Sledding**: Experience traditional dog sledding in the Alaskan wilderness.
 - **Snowmobiling**: Adventure through frozen landscapes.
 - **Wildlife Viewing**: Moose, reindeer, and perhaps polar bears!
-
-## 🗓️ To-Confirm Itinerary
-
-
-## 📅 Confirmed Itinerary
 
 
 ## 🧳 Packing List
