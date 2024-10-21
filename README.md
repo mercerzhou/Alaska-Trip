@@ -11,14 +11,14 @@ Freezing trip for the freezing season
 - [ ] Mercer's work-off request change for Dec 19 - Dec 27
 
 ## 🗓️ Travel Dates
-- Plan:
+- **Plan**:
   - **Start Date**: Dec 19, 2024
   - **End Date**: Dec 24 or 25, 2024
 
 ## 🗓️ To-Confirm Itinerary
-- Dec 19:
+**Dec 19:**
   - <Time> Flight to Anchorage
-- Dec 20:
+**Dec 20:**
   - <Time> Matanuska Glacier
 
 ## 📅 Confirmed Itinerary
