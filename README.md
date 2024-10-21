@@ -51,20 +51,7 @@ Freezing trip for the freezing season
 
 
 ## 📅 Confirmed Itinerary
-### Day 1-3: Anchorage
-- Explore local markets and museums.
-- Visit the Alaska Wildlife Conservation Center.
-  
-### Day 4-7: Fairbanks
-- Watch the **Northern Lights** from dedicated viewing spots.
-- Relax at **Chena Hot Springs**.
-  
-### Day 8-10: Denali National Park
-- Embark on snowshoeing trails.
-- Explore winter wildlife.
 
-### Day 11-12: Return to Anchorage
-- Wrap up with some final city exploration and souvenirs.
 
 ## 🧳 Packing List
 - **Heavy Winter Coat** 🧥
@@ -84,12 +71,6 @@ Freezing trip for the freezing season
 ## 🗒️ Notes
 - Make sure to check weather forecasts regularly!
 - Plan to stay indoors during heavy snowfalls.
-
-## ✈️ Pre-Trip Checklist
-- [ ] Book flights
-- [ ] Pack winter gear
-- [ ] Arrange accommodations
-- [ ] Reserve activities (dog sledding, snowmobiling)
 
 ## 🏆 Bucket List
 - See the **Aurora Borealis** 🌌
