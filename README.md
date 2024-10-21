@@ -18,6 +18,7 @@ Freezing trip for the freezing season
 ## 🗓️ To-Confirm Itinerary
 **Dec 19:**
   - <Time> Flight to Anchorage
+
 **Dec 20:**
   - <Time> Matanuska Glacier
 
