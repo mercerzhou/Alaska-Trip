@@ -16,11 +16,12 @@ Freezing trip for the freezing season
   - **End Date**: Dec 24 or 25, 2024
 
 ## 🗓️ To-Confirm Itinerary
-**Dec 19:**
-  - <Time> Flight to Anchorage
 
-**Dec 20:**
-  - <Time> Matanuska Glacier
+### **Dec 19**  
+  - 🛫 **Flight to Anchorage**
+
+### **Dec 20**  
+  - 🏔️ **Visit Matanuska Glacier**
 
 ## 📅 Confirmed Itinerary
 
