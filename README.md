@@ -18,7 +18,7 @@ Freezing trip for the freezing season
 ## 🗓️ To-Confirm Itinerary
 
 ### **Dec 19**  
-  - 🛫 **Flight to Anchorage**
+  - 🛫 **Flight to Anchorage** 436$/ person *2 = $872
 
 ### **Dec 20**  
   - 🏔️ **Visit Matanuska Glacier**
