@@ -22,8 +22,9 @@ Freezing trip for the freezing season
   - 11:30 EWR - 7:41pm 
   - 436$/ person *2 = $872
 
-### **Dec 20**  
+### **Dec 20**   Booked
   - 🏔️ **Visit Matanuska Glacier**
+  - $150/person * 2 + $20 tips = $320 (prepare cash!)
 
 ### **Dec 20**  
   - 🏔️ **一号公路 自驾游**
