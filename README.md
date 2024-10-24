@@ -25,6 +25,9 @@ Freezing trip for the freezing season
 ### **Dec 20**  
   - 🏔️ **Visit Matanuska Glacier**
 
+### **Dec 20**  
+  - 🏔️ **一号公路 自驾游**
+
 ## 📅 Confirmed Itinerary
 
 ## 🏔️ Destinations
