@@ -27,7 +27,7 @@ Freezing trip for the freezing season
   - $150/person * 2 + $20 tips = $320 (prepare cash!)
 
 ### **Dec 21**  
-  - 🏔️ **一号公路 自驾游**
+  - 🏔️ **一号公路Seward 自驾游**
   - 
 ### **Dec 22**  
   - ✈️Flight Anchorage to Fairbanks 11:27am
