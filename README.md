@@ -8,7 +8,7 @@ Freezing trip for the freezing season
 - [ ] Reserve Accommodations 🏨
 - [ ] Pack Winter Gear 🧥
 - [x] Set Up Doc 📝
-- [ ] Mercer's work-off request change for Dec 19 - Dec 27
+- [x] Mercer's work-off request change for Dec 19 - Dec 27
 
 ## 🗓️ Travel Dates
 - **Plan**:
