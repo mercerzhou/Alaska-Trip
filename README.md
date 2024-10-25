@@ -32,7 +32,7 @@ Freezing trip for the freezing season
 
 ### **Dec 20** | ANC
   - 🏔️ **Visit Matanuska Glacier**
-    - [Meeting point](https://maps.app.goo.gl/YtW2bEYDu1sXfqoW7)
+    - [Meeting point - Glacier Tours](https://maps.app.goo.gl/YtW2bEYDu1sXfqoW7)
     - $150/person * 2 + $20 tips = $320 (prepare cash!)
 
 ### **Dec 21** | ANC
