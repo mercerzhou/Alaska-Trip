@@ -32,7 +32,7 @@ Freezing trip for the freezing season
 ### **Dec 22**  
   - ✈️Flight Anchorage to Fairbanks 11:27am
   - ✈️ $372.22 (2 person) + CAR 🚗$328.23 (2 person)= $733 （chase offer 返100）
-    
+  DEC 19 -22 Aviator  Hotel (Booking.com $385.29/3 nights)
 ## 📅 Confirmed Itinerary
 
 ## 🏔️ Destinations
