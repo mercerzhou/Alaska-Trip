@@ -21,13 +21,14 @@ Freezing trip for the freezing season
   - ✈️ **Flight to Anchorage**
   - EWR 11:30AM -> ORD -> ANC 07:41PM : Mercer, Jinyi
     - 436$/ person *2 = $872
-  - 🛻 Airport Car Rental Enterprise
+  - 🚙 Airport Car Rental Enterprise
     - Tyota Tacoma
     - Pick-up: Dec 29, 08:30PM
     - Drop-off: Dec 22, 09:30AM
   - Dinner TODO 
   - 🏨 **Hotel**
-    - [Aviator Hotel Anchorage](https://maps.app.goo.gl/wYD7TgPJyJzECfyR9)
+    - [Aviator Hotel Anchorage](https://maps.app.goo.gl/wYD7TgPJyJzECfyR9) 19th 3PM - 22nd 11AM
+    - $385.29
 
 ### **Dec 20** | ANC
   - 🏔️ **Visit Matanuska Glacier**
