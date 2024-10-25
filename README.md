@@ -15,6 +15,32 @@ Freezing trip for the freezing season
   - **Start Date**: Dec 19 - Dec 22 Anchorage
   - **End Date**: Dec 22- ( ) Fairbanks
 
+## 📅 Confirmed Itinerary
+
+### **Dec 19**  -> Anchorage
+  - 🛫 **Flight to Anchorage**
+  - EWR 11:30AM -> ORD -> ANC 07:41PM : Mercer, Jinyi
+    - 436$/ person *2 = $872
+  - 🛻 Airport Car Rental Enterprise
+    - Tyota Tacoma
+    - Pick-up: Dec 29, 08:30PM
+    - Drop-off: Dec 22, 09:30AM
+  - Dinner TODO 
+
+### **Dec 20**   Booked
+  - 🏔️ **Visit Matanuska Glacier**
+    - [Meeting point](https://maps.app.goo.gl/YtW2bEYDu1sXfqoW7)
+    - $150/person * 2 + $20 tips = $320 (prepare cash!)
+
+### **Dec 21**  
+  - 🏔️ **一号公路Seward 自驾游**
+    - Places to stop
+
+### **Dec 22**  
+  - ✈️Flight Anchorage to Fairbanks 11:27am
+  - ✈️ $372.22 (2 person) + CAR 🚗$328.23 (2 person)= $733 （chase offer 返100）
+  DEC 19 -22 Aviator  Hotel (Booking.com $385.29/3 nights)
+
 ## 🗓️ To-Confirm Itinerary
 
 ### **Dec 19**  
@@ -54,27 +80,6 @@ Freezing trip for the freezing season
     - 追极光
 
 ### **Dec 25**  到达fairbanks 
-
-
-## 📅 Confirmed Itinerary
-
-### **Dec 19**  -> Anchorage
-  - 🛫 **Flight to Anchorage**
-  - EWR 11:30AM -> ORD -> ANC 07:41PM : Mercer, Jinyi
-    - 436$/ person *2 = $872
-  - 
-
-### **Dec 20**   Booked
-  - 🏔️ **Visit Matanuska Glacier**
-  - $150/person * 2 + $20 tips = $320 (prepare cash!)
-
-### **Dec 21**  
-  - 🏔️ **一号公路Seward 自驾游**
-  - 
-### **Dec 22**  
-  - ✈️Flight Anchorage to Fairbanks 11:27am
-  - ✈️ $372.22 (2 person) + CAR 🚗$328.23 (2 person)= $733 （chase offer 返100）
-  DEC 19 -22 Aviator  Hotel (Booking.com $385.29/3 nights)
 
 ## 🏔️ Destinations
 - **Anchorage**: Urban exploration, dining, and local culture.
