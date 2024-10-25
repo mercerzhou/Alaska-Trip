@@ -33,6 +33,29 @@ Freezing trip for the freezing season
   - ✈️Flight Anchorage to Fairbanks 11:27am
   - ✈️ $372.22 (2 person) + CAR 🚗$328.23 (2 person)= $733 （chase offer 返100）
   DEC 19 -22 Aviator  Hotel (Booking.com $385.29/3 nights)
+
+### **Dec 22**  到达fairbanks
+  - 下午自主安排
+  - 冰钓？🎣 Alaska River Tours/ Quick And easy ice fishing at Chena Lake
+  - Tenana Valley Fairgrounds
+  - Murphy Dome (hard to drive) / morris 追极光 / Clearly Summit auroa Viewing area
+    hotel
+ - Muscemum of the north 博物馆 或者university
+ - Alaska raw fur
+ - The great alaskan bowl company
+   
+### **Dec 23**  到达fairbanks
+    - 狗拉雪橇🐶 paws for adventure /Firewalkers Alaskan Malamute （说这家狗子都养的更好 95🔪/person ）
+    - Santa Clause House （recommend）
+    - 
+    hotel：
+### **Dec 24**  到达fairbanks
+    - Castner Clacier Ice Cave 蓝冰洞 tour; Steven miley Glacier winter tours (include pickup)
+    - 追极光
+
+### **Dec 25**  到达fairbanks 
+
+
 ## 📅 Confirmed Itinerary
 
 ## 🏔️ Destinations
