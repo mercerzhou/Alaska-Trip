@@ -17,7 +17,7 @@ Freezing trip for the freezing season
 
 ## 📅 Confirmed Itinerary
 
-### **Dec 19**  -> Anchorage
+### **Dec 19**  * -> Anchorage
   - 🛫 **Flight to Anchorage**
   - EWR 11:30AM -> ORD -> ANC 07:41PM : Mercer, Jinyi
     - 436$/ person *2 = $872
