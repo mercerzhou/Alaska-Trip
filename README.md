@@ -12,8 +12,8 @@ Freezing trip for the freezing season
 
 ## 🗓️ Travel Dates
 - **Plan**:
-  - **Start Date**: Dec 19, 2024
-  - **End Date**: Dec 24 or 25, 2024
+  - **Start Date**: Dec 19 - Dec 22 Anchorage
+  - **End Date**: Dec 22- ( ) Fairbanks
 
 ## 🗓️ To-Confirm Itinerary
 
