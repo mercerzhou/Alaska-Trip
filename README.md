@@ -17,7 +17,7 @@ Freezing trip for the freezing season
 
 ## 📅 Confirmed Itinerary
 
-### **Dec 19**  * -> Anchorage
+### **Dec 19** | * -> Anchorage
   - 🛫 **Flight to Anchorage**
   - EWR 11:30AM -> ORD -> ANC 07:41PM : Mercer, Jinyi
     - 436$/ person *2 = $872
@@ -27,16 +27,16 @@ Freezing trip for the freezing season
     - Drop-off: Dec 22, 09:30AM
   - Dinner TODO 
 
-### **Dec 20** ANC
+### **Dec 20** | ANC
   - 🏔️ **Visit Matanuska Glacier**
     - [Meeting point](https://maps.app.goo.gl/YtW2bEYDu1sXfqoW7)
     - $150/person * 2 + $20 tips = $320 (prepare cash!)
 
-### **Dec 21** ANC -> FAI
+### **Dec 21** | ANC
   - 🏔️ **一号公路Seward 自驾游**
     - Places to stop
 
-### **Dec 22**  
+### **Dec 22** | ANC -> FAI
   - ✈️Flight Anchorage to Fairbanks 11:27am
   - ✈️ $372.22 (2 person) + CAR 🚗$328.23 (2 person)= $733 （chase offer 返100）
   DEC 19 -22 Aviator  Hotel (Booking.com $385.29/3 nights)
