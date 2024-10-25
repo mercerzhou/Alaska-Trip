@@ -27,12 +27,12 @@ Freezing trip for the freezing season
     - Drop-off: Dec 22, 09:30AM
   - Dinner TODO 
 
-### **Dec 20**   Booked
+### **Dec 20** ANC
   - 🏔️ **Visit Matanuska Glacier**
     - [Meeting point](https://maps.app.goo.gl/YtW2bEYDu1sXfqoW7)
     - $150/person * 2 + $20 tips = $320 (prepare cash!)
 
-### **Dec 21**  
+### **Dec 21** ANC -> FAI
   - 🏔️ **一号公路Seward 自驾游**
     - Places to stop
 
