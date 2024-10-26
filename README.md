@@ -13,7 +13,7 @@ Freezing trip for the freezing season
 ## 🗓️ Travel Dates
 - **Plan**:
   - **Start Date**: Dec 19 - Dec 22 Anchorage
-  - **End Date**: Dec 22 - Dec 25 
+  - **End Date**: Dec 22 - Dec 25  FAI
 
 ## 📅 Confirmed Itinerary
 
@@ -26,11 +26,12 @@ Freezing trip for the freezing season
     - Tyota Tacoma
     - Pick-up: Dec 29, 08:30PM
     - Drop-off: Dec 22, 09:30AM
-  - Dinner TODO 
+  - Dinner TODO
+  - 
   - 🏨 **Hotel**
     - [Aviator Hotel Anchorage](https://maps.app.goo.gl/wYD7TgPJyJzECfyR9) 19th 3PM - 22nd 11AM
     - $385.29
-
+    - Airbnb Fairbanks ：mer paid 
 ### **Dec 20** | ANC
   - 🏔️ **Visit Matanuska Glacier**
     - [Meeting point - Glacier Tours](https://maps.app.goo.gl/YtW2bEYDu1sXfqoW7)
