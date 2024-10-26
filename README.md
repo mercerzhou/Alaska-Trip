@@ -54,8 +54,8 @@ Freezing trip for the freezing season
  - 圣诞老人house
 
 ### **Dec 24** | FAI
-上午可选  - Muscemum of the north 博物馆 或者university + lunch
-  - 狗拉雪橇 Firewalkers Alaskan Malamute 12am 1hr 95刀/person * 3 = 285🔪
+  - 上午可选  Muscemum of the north 博物馆 或者university + lunch
+  - *Booked* 狗拉雪橇 Firewalkers Alaskan Malamute 12PM 1hr 95刀/person * 3 = 285🔪
  下午可选项：
  - Tenana Valley Fairgrounds
   - 追极光的好地点 Murphy Dome (hard to drive) / morris 追极光 / Clearly Summit auroa Viewing area hotel
@@ -64,8 +64,8 @@ Freezing trip for the freezing season
  - The great alaskan bowl company
 
 ### **Dec 25*** | FAI
-  - ✈️ FAI 1:23AM : Henry departs
   - ✈️ FAI-EWR : 12:25am JC, Mer depart (flight 342.70 * 2 person = $684 JC paid
+  - ✈️ FAI 1:23AM : Henry departs
 
 ## 🏔️ Destinations
 - **Anchorage**: Urban exploration, dining, and local culture.
