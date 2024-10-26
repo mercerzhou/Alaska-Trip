@@ -34,8 +34,8 @@ Freezing trip for the freezing season
 ### **Dec 20** | ANC
   - 🏔️ **Visit Matanuska Glacier**
     - [Meeting point - Glacier Tours](https://maps.app.goo.gl/YtW2bEYDu1sXfqoW7)
-    - $150/person * 2 + $20 tips = $320 (prepare cash!)
-
+    - $150/person * 3 +  tips = $450 (prepare cash!) 已经加完henry
+ 
 ### **Dec 21** | ANC
   - 🏔️ **一号公路Seward 自驾游**
     - Places to stop
@@ -43,60 +43,27 @@ Freezing trip for the freezing season
 ### **Dec 22** | ANC -> FAI
   - ✈️ ANC 11:27AM -> FAI 12:34PM : Mercer, Jinyi
     - 机票 186.11$/ person *2人 = $372.22 一共 mer paid
+    - CAR 🚗$328.23 (2 person)
+    - 372+328 = 733 （chase offer 返100）mer paid
   DEC 19 -22 Aviator  Hotel (Booking.com $385.29/3 nights) JC paid
- - 冰🎣 426.00 （3人一共） mer paid
+ - 冰钓🎣 426.00 （3人一共） mer paid
    
-
-
-
+### **Dec 23** ｜ FAI
+ - Castner Glacier Ice Cave
+ - 圣诞老人house
 
 ### **Dec 24** | FAI
-  - 待定
-  - ✈️ Henry第二天早上飞机，晚上机场
-
-### **Dec 25*** | FAI
-  - ✈️ FAI 1:23AM : Henry departs
-  - ✈️ FAI-EWR : 12:25am JC, Mer depart (flight 342.70 * 2 person = $684 
-
-
-
-### **Dec 19**  
-  - 🛫 **Flight to Anchorage**
-  - 11:30 EWR - 7:41pm 
-  - 436$/ person *2 = $872
-
-### **Dec 20**   Booked
-  - 🏔️ **Visit Matanuska Glacier**
-  - $150/person * 2 + $20 tips = $320 (prepare cash!)
-
-### **Dec 21**  
-  - 🏔️ **一号公路Seward 自驾游**
-  - 
-### **Dec 22**  
-  - ✈️Flight Anchorage to Fairbanks 11:27am : Mercer, Jinyi, Henry
-  - ✈️ $372.22 (2 person) + CAR 🚗$328.23 (2 person)= $733 （chase offer 返100）
-  DEC 19 -22 Aviator  Hotel (Booking.com $385.29/3 nights)
-
-### **Dec 22**  到达fairbanks
-  - 下午自主安排
-  - 冰钓？🎣 Alaska River Tours/ Quick And easy ice fishing at Chena Lake
-  - Tenana Valley Fairgrounds
-  - Murphy Dome (hard to drive) / morris 追极光 / Clearly Summit auroa Viewing area
-    hotel
+  - 狗拉雪橇 Firewalkers Alaskan Malamute (等回复message 改日期到24号！）
+ 下午可选项：
+ - Tenana Valley Fairgrounds
+  - 追极光的好地点 Murphy Dome (hard to drive) / morris 追极光 / Clearly Summit auroa Viewing area hotel
  - Muscemum of the north 博物馆 或者university
  - Alaska raw fur
  - The great alaskan bowl company
-   
-### **Dec 23**  到达fairbanks
-    - 狗拉雪橇🐶 paws for adventure /Firewalkers Alaskan Malamute （说这家狗子都养的更好 95🔪/person ）
-    - Santa Clause House （recommend）
-    - 
-    hotel：
-### **Dec 24**  到达fairbanks
-    - Castner Clacier Ice Cave 蓝冰洞 tour; Steven miley Glacier winter tours (include pickup)
-    - 追极光
 
-### **Dec 25**  到达fairbanks 
+### **Dec 25*** | FAI
+  - ✈️ FAI 1:23AM : Henry departs
+  - ✈️ FAI-EWR : 12:25am JC, Mer depart (flight 342.70 * 2 person = $684 JC paid
 
 ## 🏔️ Destinations
 - **Anchorage**: Urban exploration, dining, and local culture.
