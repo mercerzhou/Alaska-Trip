@@ -21,6 +21,7 @@ Freezing trip for the freezing season
   - ✈️ **Flight to Anchorage**
     - EWR 11:30AM -> ORD -> ANC 07:41PM : Mercer, Jinyi
     - 436$/ person *2 = $872
+    - ATL -> ANC 6:58PM : Henry
   - 🚙 Airport Car Rental Enterprise
     - Tyota Tacoma
     - Pick-up: Dec 29, 08:30PM
