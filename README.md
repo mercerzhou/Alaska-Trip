@@ -47,9 +47,8 @@ Freezing trip for the freezing season
     - CAR 🚗$328.23 (3 person)
     - 372+328 = 733 （chase offer 返100）mer paid
  - 冰钓🎣 426.00 （3人一共） mer paid
- - **STAY** [Airbnb](https://air.tl/9ziqxePT?s=67&unique_share_id=109fb467-e7a5-43fb-b941-0817c3b69f3d)
-   - [Airbnb](https://air.tl/9ziqxePT?s=67&unique_share_id=109fb467-e7a5-43fb-b941-0817c3b69f3d)
-   - [Map](https://maps.app.goo.gl/DaUjHmDToVngRU2U7)
+ - **STAY**
+   - [Airbnb](https://air.tl/9ziqxePT?s=67&unique_share_id=109fb467-e7a5-43fb-b941-0817c3b69f3d) [Map](https://maps.app.goo.gl/DaUjHmDToVngRU2U7)
    
 ### **Dec 23** ｜ FAI
  - Castner Glacier Ice Cave
