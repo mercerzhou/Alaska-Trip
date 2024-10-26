@@ -28,10 +28,8 @@ Freezing trip for the freezing season
     - Drop-off: Dec 22, 09:30AM
   - Dinner TODO
   - 
-  - 🏨 **Hotel**
-    - [Aviator Hotel Anchorage](https://maps.app.goo.gl/wYD7TgPJyJzECfyR9) 19th 3PM - 22nd 11AM
-    - $385.29
-    - Airbnb Fairbanks ：mer paid 
+  - 🏨 **STAY**
+   - [Airbnb](https://air.tl/9ziqxePT?s=67&unique_share_id=109fb467-e7a5-43fb-b941-0817c3b69f3d) [Map](https://maps.app.goo.gl/gUVNpVjbV6c6ybHa6)
 ### **Dec 20** | ANC
   - 🏔️ **Visit Matanuska Glacier**
     - [Meeting point - Glacier Tours](https://maps.app.goo.gl/YtW2bEYDu1sXfqoW7)
