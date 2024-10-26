@@ -13,7 +13,7 @@ Freezing trip for the freezing season
 ## 🗓️ Travel Dates
 - **Plan**:
   - **Start Date**: Dec 19 - Dec 22 Anchorage
-  - **End Date**: Dec 22- ( ) Fairbanks
+  - **End Date**: Dec 22 - Dec 25 
 
 ## 📅 Confirmed Itinerary
 
@@ -42,8 +42,13 @@ Freezing trip for the freezing season
 
 ### **Dec 22** | ANC -> FAI
   - ✈️ ANC 11:27AM -> FAI 12:34PM : Mercer, Jinyi
-    - 186.11$/ person *2 = $372.22
-  DEC 19 -22 Aviator  Hotel (Booking.com $385.29/3 nights)
+    - 机票 186.11$/ person *2人 = $372.22 一共 mer paid
+  DEC 19 -22 Aviator  Hotel (Booking.com $385.29/3 nights) JC paid
+ - 冰🎣 426.00 （3人一共） mer paid
+   
+
+
+
 
 ### **Dec 24** | FAI
   - 待定
@@ -51,8 +56,9 @@ Freezing trip for the freezing season
 
 ### **Dec 25*** | FAI
   - ✈️ FAI 1:23AM : Henry departs
+  - ✈️ FAI-EWR : 12:25am JC, Mer depart (flight 342.70 * 2 person = $684 
 
-## 🗓️ To-Confirm Itinerary
+
 
 ### **Dec 19**  
   - 🛫 **Flight to Anchorage**
