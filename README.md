@@ -45,6 +45,13 @@ Freezing trip for the freezing season
     - 186.11$/ person *2 = $372.22
   DEC 19 -22 Aviator  Hotel (Booking.com $385.29/3 nights)
 
+### **Dec 24** | FAI
+  - 待定
+  - ✈️ Henry第二天早上飞机，晚上机场
+
+### **Dec 25*** | FAI
+  - ✈️ FAI 1:23AM : Henry departs
+
 ## 🗓️ To-Confirm Itinerary
 
 ### **Dec 19**  
