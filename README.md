@@ -44,10 +44,12 @@ Freezing trip for the freezing season
 ### **Dec 22** | ANC -> FAI
   - ✈️ ANC 11:27AM -> FAI 12:34PM : Mercer, Jinyi
     - 机票 186.11$/ person *2人 = $372.22 一共 mer paid
-    - CAR 🚗$328.23 (2 person)
+    - CAR 🚗$328.23 (3 person)
     - 372+328 = 733 （chase offer 返100）mer paid
-  DEC 19 -22 Aviator  Hotel (Booking.com $385.29/3 nights) JC paid
  - 冰钓🎣 426.00 （3人一共） mer paid
+ - **STAY** [Airbnb](https://air.tl/9ziqxePT?s=67&unique_share_id=109fb467-e7a5-43fb-b941-0817c3b69f3d)
+   - [Airbnb](https://air.tl/9ziqxePT?s=67&unique_share_id=109fb467-e7a5-43fb-b941-0817c3b69f3d)
+   - [Map](https://maps.app.goo.gl/DaUjHmDToVngRU2U7)
    
 ### **Dec 23** ｜ FAI
  - Castner Glacier Ice Cave
@@ -55,7 +57,7 @@ Freezing trip for the freezing season
 
 ### **Dec 24** | FAI
   - 上午可选  Muscemum of the north 博物馆 或者university + lunch
-  - *Booked* 狗拉雪橇 Firewalkers Alaskan Malamute 12PM 1hr 95刀/person * 3 = 285🔪
+  - **Booked** 狗拉雪橇 Firewalkers Alaskan Malamute 12PM 1hr 95刀/person * 3 = 285🔪
  下午可选项：
  - Tenana Valley Fairgrounds
   - 追极光的好地点 Murphy Dome (hard to drive) / morris 追极光 / Clearly Summit auroa Viewing area hotel
